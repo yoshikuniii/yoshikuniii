@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yoshiumikuni
+- 👋 Hi, I’m @yoshikuniii
 - 👀 I’m interested in IoT and computer vision, also cloud architecture!
-- 🌱 I’m currently learning IoT, my latest project is making a Air Quality Monitor device using EPS8266
+- 🌱 Making a project for fun!
 - 📫 How to reach me yoshiumi.kuni@protonmail.com
 
 <!---
